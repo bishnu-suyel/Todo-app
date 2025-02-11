@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
   standalone: true
 })
 export class TodoComponent {
-  tasks: string[] = ['Buy groceries', 'Learn Angular'];
+  tasks: string[] = [];
   newTask: string = '';
   editIndex: number | null = null;
 
