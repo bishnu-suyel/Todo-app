@@ -33,7 +33,7 @@
 
 .task-actions {
   display: flex;
-  gap: 5px;
+  gap: 6px;
 }
 
 input[type="text"] {
